@@ -4,6 +4,8 @@ note does use Proton GE 10.1
 
 this list will get updated as test more games
 
+there also logs for the games that have issues and screenshots 
+
 | game                  |            issue                             |
 |-----------------------|----------------------------------------------|
  Ark Survival Ascended | The game lauches but freezes when you get in  |
